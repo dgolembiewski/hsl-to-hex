@@ -1,11 +1,22 @@
 {
   "name": "hsl-to-hex",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thepowderriverfarrier/hsl-to-hex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thepowderriverfarrier/hsl-to-hex/issues"
+  },
+  "homepage": "https://github.com/thepowderriverfarrier/hsl-to-hex#readme",
+  "description": "",
+  "dependencies": {
+    "hsl-to-rgb-for-reals": "^1.1.0"
+  }
 }
