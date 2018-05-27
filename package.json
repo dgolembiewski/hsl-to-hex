@@ -9,12 +9,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/thepowderriverfarrier/hsl-to-hex.git"
+    "url": "git+ssh://git@github.com/dgolembiewski/hsl-to-hex.git"
   },
   "bugs": {
-    "url": "https://github.com/thepowderriverfarrier/hsl-to-hex/issues"
+    "url": "https://github.com/dgolembiewski/hsl-to-hex/issues"
   },
-  "homepage": "https://github.com/thepowderriverfarrier/hsl-to-hex#readme",
+  "homepage": "https://github.com/dgolembiewski/hsl-to-hex#readme",
   "description": "",
   "dependencies": {
     "hsl-to-rgb-for-reals": "^1.1.0"
