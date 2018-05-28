@@ -18,5 +18,8 @@
   "description": "",
   "dependencies": {
     "hsl-to-rgb-for-reals": "^1.1.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
   }
 }
